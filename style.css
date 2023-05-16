@@ -153,7 +153,7 @@ nav a:hover {
   opacity: .8;
 }
 
-#services {
+/* #services {
   background-color: #f4f4f4;
   padding: 2rem;
 }
@@ -203,7 +203,7 @@ nav a:hover {
 .testimonial .author {
   font-size: 1rem;
   text-align: right;
-}
+} */
 
 footer {
   background-color: #333;
